@@ -12,11 +12,6 @@
     "start": "npm run serve",
     "test": "echo \"No tests available\" && exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/drminnaar/react-bitcoin-monitor.git"
-  },
-  "license": "MIT",
   "babel": {
     "presets": [
       "env",
